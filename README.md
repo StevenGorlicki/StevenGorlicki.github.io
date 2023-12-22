@@ -10,10 +10,11 @@ My Handshake: https://app.joinhandshake.com/stu/users/45142002
 
 Most of my repositories are private through my school as they're projects and don't want them to be copyable. 
 
+You can add me on discord, @ _.asp (Or steventhenoob, I'm not sure how new discord users work)
 
-If anyone actually reads this, you can add me on discord, @ _.asp (Or steventhenoob, I'm not sure how new discord users work)
 
-I play a lot of games like League of Legends, Overwatch, Valorant etc. so DM me :)       steventheqb#NA1 and Steventheqb#1182 (trying to hit rank 1)
+
+I play a lot of games outside of school like League of Legends, Overwatch, Valorant etc. so DM me :) 
 
 I like robotics and sports so thats pretty cool. 
 
