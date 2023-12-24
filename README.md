@@ -4,44 +4,17 @@ Hello, I'm Steven Gorlicki | SWE @ UC Irvine | Class of 2025
 
 Web Developer @ CeriesAI 
 
-My Linkedin: https://www.linkedin.com/in/steven-gorlicki-57b059284/
-
-My Handshake: https://app.joinhandshake.com/stu/users/45142002
-
-Most of my repositories are private through my school as they're projects and don't want them to be copyable. 
-
-You can add me on discord, @ _.asp (Or steventhenoob, I'm not sure how new discord users work)
+Check out my main projects @CeriesWeb and @BookSheets, or others throughout my repository.
 
 
+You can find me at the following:
 
-I play a lot of games outside of school like League of Legends, Overwatch, Valorant etc. so DM me :) 
+Linkedin: https://www.linkedin.com/in/steven-gorlicki-57b059284/
 
-I like robotics and sports so thats pretty cool. 
+Handshake: https://app.joinhandshake.com/stu/users/45142002
 
+Email: @ StevenGorlicki@hotmail.com
 
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣤⣤⣤⣀⣀⢀⣼⠋⠀⠀⠀⠙⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⠶⠛⠋⠉⠀⠀⠀⠀⠀⠉⢹⣟⠻⢦⣄⡀⠀⠀⠘⣇⠀⠀⠀⠀⠀⠀⠀⣰⡟⠁⠀⠀⠀⠀⠀⠀
-⠀⣰⡾⠛⠉⠙⠛⢶⣤⣴⠟⠋⠀⠀⠀⠀⠀⠀⠀⢯⣻⣄⠀⠸⣾⣷⡀⠈⠙⢦⣄⠀⣿⠀⠀⠀⠀⠀⢀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀
-⢰⣿⠀⠀⠀⠀⠀⠀⠈⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⡄⠀⠙⢿⡷⠀⠀⠀⠙⢿⣟⠀⠀⠀⠀⢠⠞⠁⠀⠀⠀⠀⠀⣠⡶⠀⠀
-⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠓⠀⠀⢀⣀⠤⣄⡀⠀⠀⠻⣆⠀⠀⠐⠁⠀⠀⠀⠀⢀⣤⡾⠋⠀⠀⠀
-⠀⢹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠁⠀⠀⠀⠙⣆⡄⠀⠹⣆⠀⠀⠀⠀⢀⣠⠶⠛⠁⠀⠀⠀⠀⠀
-⠀⠀⠻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠃⠀⠀⠀⠀⠀⠀⢻⡇⠀⠀⢻⡄⠀⠀⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢹⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⣠⠇⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣼⠉⠹⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⣿⠀⠀⠀⠦⠤⠤⠤⢤⣤⣤⣤⣀⡀
-⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠘⣇⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉
-⠀⠀⠀⢻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡖⠋⠉⠉⠙⠒⠦⣄⣿⡀⠀⠀⣿⣄⠀⠀⠢⣄⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠙⡷⡄⢸⠟⠛⠷⣄⠀⠀⠙⠳⣦⣄⠀⠀⠀⠀
-⠀⠀⠀⠀⢿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡀⠀⠀⠀⠀⠀⠀⠀⡇⢀⡟⠀⠀⠀⠙⣇⠀⠀⠀⠀⠙⠷⣦⡀⠀
-⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇⠙⢦⣀⠀⠀⠀⣀⡼⢁⡾⠁⠀⠀⠀⣠⡟⠀⠀⠀⠀⠀⠀⠈⠙⠆
-⠀⠀⠀⠀⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠁⢠⣾⣅⣠⣤⡴⠾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢠⡿⠷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣼⠁⠀⠈⠓⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠈⠙⠲⢦⣤⣤⣄⣀⣀⣤⣤⡴⠶⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⢀⣼⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠘⢿⣄⠀⠀⠀⣀⣠⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⡉⠉⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Discord: _.asp     (Soon Will be moved to a professional Discord: StevenGorlicki) 
 
 _________________________________________________________________________________________________________________________________
