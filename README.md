@@ -13,7 +13,7 @@ Linkedin: https://www.linkedin.com/in/steven-gorlicki-57b059284/
 
 Handshake: https://app.joinhandshake.com/stu/users/45142002
 
-Email: @ StevenGorlicki@hotmail.com
+Email: StevenGorlicki@hotmail.com
 
 Discord: _.asp     (Soon Will be moved to a professional Discord: StevenGorlicki) 
 
