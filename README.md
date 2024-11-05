@@ -2,8 +2,6 @@ ________________________________________________________________________________
 
 Hello, I'm Steven Gorlicki | SWE @ UC Irvine | Class of 2025
 
-Web Developer @ CeriesAI 
-
 Check out my main projects @CeriesWeb and @BookSheets, or others throughout my repository.
 
 
@@ -15,6 +13,6 @@ Handshake: https://app.joinhandshake.com/stu/users/45142002
 
 Email: StevenGorlicki@hotmail.com
 
-Discord: _.asp     (Soon Will be moved to a professional Discord: StevenGorlicki) 
+Discord: _.asp  
 
 _________________________________________________________________________________________________________________________________
