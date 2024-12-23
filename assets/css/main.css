@@ -65,6 +65,11 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 
+img {
+    max-width: 100%; /* Ensures images don't exceed their container width */
+    height: auto;    /* Maintains aspect ratio */
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
