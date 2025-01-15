@@ -66,7 +66,9 @@ input::-moz-focus-inner {
 }
 
 img {
-    max-width: 100%; /* Ensures images don't exceed their container width */
+	display: block;
+    margin: 0 auto;
+    max-width: 70%; /* Ensures images don't exceed their container width */
     height: auto;    /* Maintains aspect ratio */
 }
 
@@ -4691,4 +4693,91 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+	}
+
+	.video-container {
+	  position: relative;
+	  display: inline-block;
+	  /* If you want the container to span the full width,
+		 you could do display: block; but inline-block is typical. */
+	}
+
+	/* The existing styles for images in your code might remain:
+	   img {
+		 display: block;
+		 margin: 0 auto;
+		 max-width: 60%;
+		 height: auto;
+	   }
+	   We'll just keep them as-is.
+	*/
+
+	/*
+	   2) Dim (grey out) the image on hover
+	   by applying brightness filter
+	*/
+	.video-container:hover img {
+	  filter: brightness(0.85); /* slightly darker */
+	  transition: filter 0.3s ease;
+	}
+
+	/*
+	   3) The overlay that says "Play video" + icon.
+	   By default, it's invisible (opacity: 0).
+	*/
+	.hover-overlay {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+
+	  /* Match container dimensions */
+	  width: 100%;
+	  height: 100%;
+
+	  /*
+		 Light gray overlay
+		 (adjust if you want it darker/lighter or a different color):
+	  */
+	  background-color: rgba(0, 0, 0, 0.2);
+
+	  /*
+		 Flex center for the text/icon
+	  */
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  justify-content: center;
+
+	  /* Start hidden */
+	  opacity: 0;
+	  transition: opacity 0.3s ease;
+	}
+
+	/*
+	   4) Show overlay on hover
+	*/
+	.video-container:hover .hover-overlay {
+	  opacity: 1;
+	}
+
+	/*
+	   5) The "Play" icon:
+	   A simple right-pointing triangle (&#9658;) or use
+	   FontAwesome if you prefer a fancier icon.
+	*/
+	.play-button {
+	  font-size: 40px;
+	  color: #fff;
+	  margin-bottom: 8px; /* space above "Play video" text */
+	}
+
+	/*
+	   6) The text that says "Play video"
+	*/
+	.hover-overlay p {
+	  color: #fff;
+	  font-size: 18px;
+	  margin: 0;
+	  padding: 0;
+	  text-transform: uppercase;
 	}
