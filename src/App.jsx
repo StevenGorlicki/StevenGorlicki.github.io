@@ -7,6 +7,8 @@ import Hero from './components/Hero';
 import Education from './components/Education'
 import Experience from './components/Experience'
 import Projects from './components/Projects'
+import Contact from './components/Contact'
+import SocialsBar from './components/SocialsBar'
 
 function App() {
   return (
@@ -14,10 +16,12 @@ function App() {
       <GlobalStyle />
       <Navbar />
       <main>
+        <SocialsBar />
         <Hero />
         <Education />
         <Experience />
         <Projects />
+        <Contact />
       </main>
     </ThemeProvider>
   );

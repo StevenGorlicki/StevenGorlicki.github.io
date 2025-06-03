@@ -129,7 +129,7 @@ const Navbar = () => {
         <li><a href="#experience"><span>03.</span>Experience</a></li>
         <li><a href="#projects"><span>04.</span>Projects</a></li>
         <li><a href="#contact"><span>05.</span>Contact</a></li>
-        <li><ResumeButton href="/resume.pdf" target="_blank" rel="noopener noreferrer">Resume</ResumeButton></li>
+        <li><ResumeButton href="/StevenGorlickiResume.pdf" target="_blank" rel="noopener noreferrer">Resume</ResumeButton></li>
       </NavLinks>
     </Nav>
   );
