@@ -70,7 +70,7 @@ const Contact = () => {
               whileInView={{opacity: 1, y: 0}}
               transition={{duration: 0.4, delay: 0.1}}
           >
-              I'm currently searching for career opportunities in software engineering. Feel free to email me below or
+              I'm currently searching for career opportunities in Q/A and software engineering. Feel free to email me below or
               add me on LinkedIn!
           </motion.div>
 

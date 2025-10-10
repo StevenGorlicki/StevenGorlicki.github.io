@@ -130,6 +130,7 @@ const Education = () => {
           <motion.li variants={itemVariants}>
             <strong>Coursework:</strong> Data Structures & Algorithms, Computer Networks, Machine Learning & Data Mining,
               Neural Networks & Deep Learning, Project Management, Web Accessibility, Programming in (Python, Java, C++, C#)
+            , Software Testing & Q/A, Data Visualization
           </motion.li>
           <motion.li variants={itemVariants}>
             <strong>Awards:</strong> Dean's Honor List, Regents Scholar, 2nd Place @ ICS Expo 2025

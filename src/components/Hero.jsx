@@ -165,7 +165,7 @@ const Hero = () => {
           ease: [0.6, -0.05, 0.01, 0.99],
         }}
       >
-        I'm a new grad software engineer passionate about game development, UI design, and AI.
+        I'm a new grad software engineer passionate about exploring emerging technologies and building solutions.
         This summer, I'll be teaching Computer Science and Robotics to middle school students at{' '}
         <a
           href="https://www.idtech.com/"
@@ -175,7 +175,7 @@ const Hero = () => {
           iDTech
         </a>
         .<br />
-        I'm currently looking for job opportunities!
+        I'm currently looking for job opportunities in engineering and QA!
       </motion.p>
 
       <motion.a
