@@ -2,8 +2,9 @@ ________________________________________________________________________________
 
 Hello, I'm Steven Gorlicki | SWE @ UC Irvine | Class of 2025
 
-Check out my main projects @CeriesWeb and @BookSheets, or others throughout my repository.
+I'm currently working as an Associate QA @ Veeva Systems 
 
+Check out my main projects @[BiT](https://bit.ics.uci.edu/) and @BookSheets, or others throughout my repository.
 
 You can find me at the following:
 
