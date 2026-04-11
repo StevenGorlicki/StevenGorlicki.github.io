@@ -166,7 +166,7 @@ const Hero = () => {
         }}
       >
         I'm a new grad software engineer passionate about exploring emerging technologies and building solutions.
-        This summer, I'll be teaching Computer Science and Robotics to middle school students at{' '}
+        I'm currently working as a QA Engineer at Veeva Systems! My work is focused on Veeva AI in CRM, including the Voice and Free-Text Agents.
         <a
           href="https://www.idtech.com/"
           target="_blank"
@@ -175,7 +175,7 @@ const Hero = () => {
           iDTech
         </a>
         .<br />
-        I'm currently looking for job opportunities in engineering and QA!
+
       </motion.p>
 
       <motion.a
