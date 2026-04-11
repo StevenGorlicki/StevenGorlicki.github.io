@@ -167,13 +167,6 @@ const Hero = () => {
       >
         I'm a new grad software engineer passionate about exploring emerging technologies and building solutions.
         I'm currently working as a QA Engineer at Veeva Systems! My work is focused on Veeva AI in CRM, including the Voice and Free-Text Agents.
-        <a
-          href="https://www.idtech.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          iDTech
-        </a>
         .<br />
 
       </motion.p>
