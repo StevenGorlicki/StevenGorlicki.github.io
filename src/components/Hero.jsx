@@ -167,7 +167,7 @@ const Hero = () => {
       >
         I'm a new grad software engineer passionate about exploring emerging technologies and building solutions.
         I'm currently working as a QA Engineer at Veeva Systems! My work is focused on Veeva AI in CRM, including the Voice and Free-Text Agents.
-        .<br />
+        <br />
 
       </motion.p>
 
